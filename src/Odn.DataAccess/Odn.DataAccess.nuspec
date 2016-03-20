@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Odn Team</authors>
+    <owners>Odn Team</owners>
+    <projectUrl>http://www.odotnet.com/SwaggerNet</projectUrl>
+    <iconUrl>https://secure.gravatar.com/avatar/e9e4ebb221ac2210f064f22103a3b73b</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>包装了Dapper.Ado.Net GetDataSet等基本方法</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags></tags>
+  </metadata>
+</package>
